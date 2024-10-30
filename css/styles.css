@@ -1,0 +1,94 @@
+.limit{
+   margin-bottom: 10px;
+   line-height: 30px;
+}
+
+.comment-current{
+   margin-right: 16px;
+}
+
+
+.low-length{
+   border-color: #00A8EF;
+   outline-color: #00A8EF;
+}
+
+.large-length{
+   border-color: #e51c23;
+   outline-color: #e51c23;
+}
+
+.limit.error pre{
+   border-left: 3px solid #e51c23;
+   padding:8px 10px;
+}
+
+.limit.error pre,  #dialog-message pre{
+   font-size: 1.4em !important;
+   line-height: 1.8em !important;
+}
+
+.comment-min{
+   color: #00A8EF;
+}
+
+
+.comment-limit{
+   margin-left: 12px;
+}
+
+.alert-message{
+   width: 100%;
+   padding: 0px 18px 0px 20px;
+   margin-top: 15px;
+   margin-bottom: 15px;
+   background: #feece8;
+   border: 1px solid red;
+   color: red;
+   font-weight: 600;
+   display: -webkit-inline-box;
+   -webkit-box-pack: center;
+   -webkit-box-align: center;
+}
+
+.alert-message p{
+   vertical-align: middle;
+}
+
+.max-reached {
+   color: red;
+   font-weight: bold;
+}
+
+.lpwc-comment-rules {
+   text-decoration: none;
+   cursor: pointer;
+   font-weight: 600;
+   margin-right: 16px;
+}
+
+/* Comment Rule Modal */
+.lpwc-comment-rules-modal {
+   background-color:white;
+   color:black;
+   border:0.25em solid #ddd;
+   padding:1em;
+   -moz-border-radius:1em;
+   border-radius:1em;
+   box-shadow: 2px 2px 19px #aaa;
+   -o-box-shadow: 2px 2px 19px #aaa;
+   -webkit-box-shadow: 2px 2px 19px #aaa;
+   -moz-box-shadow: 2px 2px 19px #aaa;
+   width:640px;
+   max-width: 100%;
+}
+.lpwc-hidden {
+   display: none;
+}
+.lpwc-dialog-title {
+   border-bottom: 1px dotted grey;
+   padding-top: 0.5em;
+   padding-bottom: 0.7em;
+   text-align: center;
+   font-size: 20px;
+}

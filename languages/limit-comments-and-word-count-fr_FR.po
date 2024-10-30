@@ -1,0 +1,397 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Limit Comments and Word Count\n"
+"POT-Creation-Date: 2023-03-29 20:10-0400\n"
+"PO-Revision-Date: 2023-03-29 20:11-0400\n"
+"Last-Translator: \n"
+"Language-Team: French (France)\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: limit-comments-and-word-count.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/comment-rules-modal.php:9
+msgid "Comment Rules"
+msgstr "Règles"
+
+#: limit-comments-and-word-count.php:217
+msgid "Donation for Homeless"
+msgstr "Aide aux personnes sans-abris"
+
+#: limit-comments-and-word-count.php:390
+msgid "You are not allowed to create any more"
+msgstr "Vous n'êtes plus autorisé à créer"
+
+#: limit-comments-and-word-count.php:391
+msgid "Please login to post"
+msgstr "Veuillez vous connecter"
+
+#: limit-comments-and-word-count.php:485 limit-comments-and-word-count.php:490
+msgid "Comment-Word Limit"
+msgstr "Limite de mots et commentaires"
+
+#: limit-comments-and-word-count.php:582
+msgid "FOREVER"
+msgstr "FOREVER"
+
+#: limit-comments-and-word-count.php:583
+msgid "Every"
+msgstr "Chacun"
+
+#: limit-comments-and-word-count.php:584 limit-comments-and-word-count.php:743
+#: limit-comments-and-word-count.php:971
+msgid "Per Day"
+msgstr "Par jour"
+
+#: limit-comments-and-word-count.php:585 limit-comments-and-word-count.php:744
+#: limit-comments-and-word-count.php:974
+msgid "Per Week"
+msgstr "Par semaine"
+
+#: limit-comments-and-word-count.php:586 limit-comments-and-word-count.php:745
+#: limit-comments-and-word-count.php:977
+msgid "Per Month"
+msgstr "Par mois"
+
+#: limit-comments-and-word-count.php:587 limit-comments-and-word-count.php:746
+#: limit-comments-and-word-count.php:980
+#, fuzzy
+#| msgid "Per Day"
+msgid "Per Year"
+msgstr "Par jour"
+
+#: limit-comments-and-word-count.php:588
+msgid "hours"
+msgstr "heures"
+
+#: limit-comments-and-word-count.php:589
+msgid "Editor"
+msgstr "L'éditeur"
+
+#: limit-comments-and-word-count.php:590 limit-comments-and-word-count.php:725
+msgid "any"
+msgstr "tout"
+
+#: limit-comments-and-word-count.php:591 limit-comments-and-word-count.php:792
+msgid "Add New Limit"
+msgstr "Ajouter nouvelle limite"
+
+#: limit-comments-and-word-count.php:592
+msgid "day"
+msgstr "journée"
+
+#: limit-comments-and-word-count.php:593
+msgid "Edit"
+msgstr "Éditer"
+
+#: limit-comments-and-word-count.php:594
+msgid "Remove"
+msgstr "Retirer"
+
+#: limit-comments-and-word-count.php:595
+msgid "Update Table"
+msgstr "Mettre à jour le tableau"
+
+#: limit-comments-and-word-count.php:636 limit-comments-and-word-count.php:640
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Vous n'avez pas d'autorisation pour accéder à cette page."
+
+#. Plugin Name of the plugin/theme
+#: limit-comments-and-word-count.php:648
+msgid "Limit Comments and Word Count"
+msgstr "Limiter les commentaires et les mots"
+
+#: limit-comments-and-word-count.php:653
+msgid "Add a New Rule Limit For User Role"
+msgstr "Ajouter une nouvelle limite pour l'utilisateur"
+
+#: limit-comments-and-word-count.php:665
+msgid "Select A User Role"
+msgstr "Rôle d'utilisateur"
+
+#: limit-comments-and-word-count.php:681
+msgid "USER ID"
+msgstr "ID D'UTILISATEUR"
+
+#: limit-comments-and-word-count.php:687
+msgid "User ID"
+msgstr "ID d'utilisateur"
+
+#: limit-comments-and-word-count.php:695
+msgid "Select A Post Type"
+msgstr "Type de publication"
+
+#: limit-comments-and-word-count.php:713
+msgid "Comment Limit"
+msgstr "Limite commentaire"
+
+#: limit-comments-and-word-count.php:721
+msgid "Post Status"
+msgstr "Statut"
+
+#: limit-comments-and-word-count.php:726
+msgid "publish"
+msgstr "publier"
+
+#: limit-comments-and-word-count.php:727
+msgid "pending"
+msgstr "en attente"
+
+#: limit-comments-and-word-count.php:728
+msgid "draft"
+msgstr "brouillon"
+
+#: limit-comments-and-word-count.php:729
+msgid "auto-draft"
+msgstr "brouillon automatique"
+
+#: limit-comments-and-word-count.php:730
+msgid "future"
+msgstr "futur"
+
+#: limit-comments-and-word-count.php:731
+msgid "private"
+msgstr "privé"
+
+#: limit-comments-and-word-count.php:732
+msgid "inherit"
+msgstr "inherit"
+
+#: limit-comments-and-word-count.php:733
+msgid "trash"
+msgstr "poubelle"
+
+#: limit-comments-and-word-count.php:739
+msgid "Comment Frequency"
+msgstr "Fréquence des commentaires"
+
+#: limit-comments-and-word-count.php:762 limit-comments-and-word-count.php:1219
+msgid "Word Limit"
+msgstr "Limite de mots"
+
+#: limit-comments-and-word-count.php:767
+msgid "(Most words allowed per comment)"
+msgstr "(Maximum de mots autorisé par commentaire)"
+
+#: limit-comments-and-word-count.php:772
+msgid "Comment Limit Alert"
+msgstr "Alerte de limite de commentaire"
+
+#: limit-comments-and-word-count.php:780
+msgid "Word Limit Alert"
+msgstr "Alerte de limite de mots"
+
+#: limit-comments-and-word-count.php:814 limit-comments-and-word-count.php:827
+msgid "Role"
+msgstr "Rôle"
+
+#: limit-comments-and-word-count.php:815 limit-comments-and-word-count.php:828
+msgid "Type"
+msgstr "Type"
+
+#: limit-comments-and-word-count.php:816 limit-comments-and-word-count.php:829
+msgid "Limit"
+msgstr "Limite"
+
+#: limit-comments-and-word-count.php:817 limit-comments-and-word-count.php:830
+msgid "Status"
+msgstr "Statut"
+
+#: limit-comments-and-word-count.php:818 limit-comments-and-word-count.php:831
+msgid "Frequency"
+msgstr "Fréquence"
+
+#: limit-comments-and-word-count.php:819 limit-comments-and-word-count.php:832
+msgid "Words"
+msgstr "Mots"
+
+#: limit-comments-and-word-count.php:820 limit-comments-and-word-count.php:833
+msgid "Comment Alert"
+msgstr "Alerte de commentaire"
+
+#: limit-comments-and-word-count.php:821 limit-comments-and-word-count.php:834
+msgid "Word Alert"
+msgstr "Alerte de mot"
+
+#: limit-comments-and-word-count.php:822 limit-comments-and-word-count.php:835
+msgid "Actions"
+msgstr "Actions"
+
+#: limit-comments-and-word-count.php:870
+msgid "Disable flood protection notice"
+msgstr "Désactiver le flux des commentaires"
+
+#: limit-comments-and-word-count.php:874
+msgid "Allow user to continuously add comments."
+msgstr "Autoriser à ajouter des commentaires en continu."
+
+#: limit-comments-and-word-count.php:881
+msgid "Allow duplicate comments"
+msgstr "Autoriser les commentaires en double"
+
+#: limit-comments-and-word-count.php:885
+msgid "Allow user to add duplicate comments."
+msgstr "Autoriser l'utilisateur à ajouter des commentaires en double."
+
+#: limit-comments-and-word-count.php:890
+msgid "Text for Comment Rules Tooltip Box"
+msgstr "Texte de la boîte d'info-bulles des règles de commentaire"
+
+#: limit-comments-and-word-count.php:895
+msgid "Activate comment rules feature"
+msgstr "Activer la fonction de règles de commentaire"
+
+#: limit-comments-and-word-count.php:899
+msgid "Turn off or on the comments note feature on the user’s side."
+msgstr ""
+"Activez ou désactivez la fonction de note de commentaires du côté de "
+"l'utilisateur."
+
+#: limit-comments-and-word-count.php:916
+msgid "Save Changes"
+msgstr "Enregistrer"
+
+#: limit-comments-and-word-count.php:1215
+msgid "Comment Rules "
+msgstr "Règles de commentaire "
+
+#: limit-comments-and-word-count.php:1218
+msgid "Characters"
+msgstr "Caractères"
+
+#: limit-comments-and-word-count.php:1220
+msgid "Comments Remaining"
+msgstr "Commentaires restants"
+
+#: limit-comments-and-word-count.php:1277
+msgid "Settings"
+msgstr "Réglages"
+
+#: limit-comments-and-word-count.php:1287
+#, php-format
+msgid "More information about %s"
+msgstr "Plus d'informations sur %s"
+
+#: limit-comments-and-word-count.php:1287
+msgid "View Details"
+msgstr "Voir les détails"
+
+#: limit-comments-and-word-count.php:1370
+msgid ""
+"You have been using 'Limit Comments and Word Count' for 15 days. A positive "
+"feedback is the only payment request for this effort. Please <a "
+"href=\"https://wordpress.org/plugins/limit-comments-and-word-count/\" "
+"id=\"review-link\" target=\"_blank\">Click Here</a> to do so."
+msgstr ""
+"Vous utilisez «Limiter les commentaires et les mots» depuis 15 jours. Un "
+"retour positif est la seule demande de paiement pour cet effort. Veuillez <a "
+"href=\"https://wordpress.org/plugins/limit-comments-and-word-count/\" "
+"id=\"review-link\" target=\"_blank\">cliquer ici</a> pour le faire."
+
+#: limit-comments-and-word-count.php:1389
+msgid ""
+"<strong>Limit Comments and Word Count</strong> plugin includes a new feature "
+"that pops up comment rules so that users have an explanation of a blogs rule "
+"limits, editable from the settings. Please visit the plugins description <a "
+"href=\"https://wordpress.org/plugins/limit-comments-and-word-count/\" "
+"target=\"_blank\" >HERE</a> for more information along with revised screen "
+"captures."
+msgstr ""
+"<strong>Le plugin Limit Comments and Word Count</strong> inclut une nouvelle "
+"fonction qui affiche des règles de commentaire afin que les utilisateurs "
+"aient une explication des limites de blog, modifiables dans les paramètres. "
+"Veuillez visiter la description du plugin <a href=\"https://wordpress.org/"
+"plugins/limit-comments-and-word-count/\" target=\"_blank\" >ICI</a> pour "
+"plus d'informations ainsi que des captures d'écran révisées."
+
+#: limit-comments-and-word-count.php:1405
+msgid ""
+"Please show respect to the opinions of others no matter how seemingly far-"
+"fetched."
+msgstr ""
+"Veuillez respecter les opinions des autres, même si elles semblent farfelues."
+
+#: limit-comments-and-word-count.php:1406
+msgid ""
+"Abusive, foul language, and/or divisive comments may be deleted without "
+"notice."
+msgstr ""
+"Les propos injurieux, grossiers et qui divisent peuvent être supprimés sans "
+"préavis."
+
+#: limit-comments-and-word-count.php:1407
+msgid ""
+"Each blog member is allowed limited comments, as displayed above the comment "
+"box."
+msgstr ""
+"Vous avez le droit à un nombre limité de commentaires : voir au-dessus de la "
+"zone de commentaire."
+
+#: limit-comments-and-word-count.php:1408
+msgid ""
+"Comments must be limited to the number of words displayed above the comment "
+"box."
+msgstr ""
+"Les commentaires doivent être limités au nombre de mots affichés au-dessus."
+
+#: limit-comments-and-word-count.php:1409
+msgid "Please limit one comment after any comment posted per post."
+msgstr ""
+"Veuillez limiter un commentaire après tout commentaire publié par "
+"publication."
+
+#: limit-comments-and-word-count.php:1440
+msgid "Limit Comments and Word Count Settings"
+msgstr "Limite los comentarios y el recuento de palabras"
+
+#: limit-comments-and-word-count.php:1462
+msgid "Turn off Comments and Word Count for this post ?"
+msgstr ""
+"¿Desactivar los comentarios y el recuento de palabras para esta publicación?"
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/plugins/limit-comments-and-word-count"
+msgstr "http://wordpress.org/plugins/limit-comments-and-word-count"
+
+#. Description of the plugin/theme
+msgid ""
+"Limit the number of comments and word length each user can add to a "
+"Wordpress blog post, definable by user role and length of time. No "
+"Administrator, Editor, Author, or Contributor limits unless profile is "
+"created."
+msgstr ""
+"Limite la cantidad de comentarios y la longitud de las palabras que cada "
+"usuario puede agregar a una publicación de blog de Wordpress, definible por "
+"el rol del usuario y el tiempo. Sin límites de administrador, editor, autor "
+"o colaborador a menos que se cree un perfil."
+
+#. Author of the plugin/theme
+msgid "Artios Media"
+msgstr "Artios Media"
+
+#. Author URI of the plugin/theme
+msgid "http://www.artiosmedia.com"
+msgstr "http://www.artiosmedia.com"
+
+#: limit-comments-and-word-count.php:1480
+msgid "Maximum comments allowed"
+msgstr "Maximum de commentaires autorisés"
+
+#: limit-comments-and-word-count.php:902
+msgid "Global maximum number of comments allowed per post."
+msgstr "Nombre maximum global de commentaires autorisés par publication."
+
+#: limit-comments-and-word-count.php:906
+msgid "Three digit maximum. No entry defaults to unlimited comments."
+msgstr "Trois chiffres maximum. Aucune entrée par défaut est un nombre illimité de commentaires."
